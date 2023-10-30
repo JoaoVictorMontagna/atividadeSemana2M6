@@ -13,6 +13,7 @@ parte do codigo usada para fazer a media de pessoas por mes:
   ano, mes;
 
   resultado:
+  <img src="imagem_resultado.jpg">
 
 
 Diagrama:
